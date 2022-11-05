@@ -8,7 +8,7 @@ A new Flutter project.
 
 <table>
   <tr>
-  <td><img src="screenshots/1.png">
+  <td><img src="screenshots/one.png">
   </td>
   <td><img src="screenshots/2.png">
   </td>   
